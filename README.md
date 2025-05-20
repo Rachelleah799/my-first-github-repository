@@ -1,4 +1,4 @@
 
 # my-first-github-repository
 My First Github repository
-Ths file was modified locally.
+README.md filr was just edited manually.This fil was modified locally.
